@@ -1,0 +1,19 @@
+#root {
+  background-color: #fffff0;
+}
+.form-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 93.5vh;
+}
+.form-custom {
+  width: 25rem;
+  border: #00000026 1px solid;
+  padding: 12px;
+  border-radius: 3%;
+  background-color: #a7c4b5;
+}
+.modal-color {
+  background-color: #94c0a9;
+}
